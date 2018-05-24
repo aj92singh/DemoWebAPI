@@ -1,1 +1,0 @@
-﻿{"ContextClassName":"SampledatabaseContext","DefaultDacpacSchema":null,"IdReplace":false,"IncludeConnectionString":true,"OutputPath":"Models2","ProjectRootNamespace":"DemoWebAPI","SelectedToBeGenerated":0,"Tables":["dbo.Bank","dbo.Employee"],"UseDatabaseNames":false,"UseFluentApiOnly":true,"UseHandleBars":false,"UseInflector":false}
