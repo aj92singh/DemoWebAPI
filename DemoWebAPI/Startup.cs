@@ -20,7 +20,7 @@ namespace DemoWebAPI
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
-            var connection = @"Data Source=sampleserver-aj.database.windows.net;Initial Catalog=SampleDatabase;User ID=testuser;Password=Azure@1234";
+            var connection = "provide from mail";
             services.AddDbContext<SampledatabaseContext>(options => options.UseSqlServer(connection));
         }
 
